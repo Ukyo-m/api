@@ -16,6 +16,7 @@ gem 'rack-cors'
 # Add package
 gem 'rswag-api'
 gem 'rswag-ui'
+gem 'zero-rails_openapi'
 
 group :development, :test do
   gem 'byebug', platforms: [:mri, :mingw, :x64_mingw]
